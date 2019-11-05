@@ -31,7 +31,7 @@ header nav {
 
 .header_logo {
   margin: 30px;
-  text-transform: "LOGO";
+  text-transform: uppercase;
 }
 
 @font-face {
@@ -42,5 +42,25 @@ header nav {
 @font-face {
   font-family: MyriadPro-Bold;
   src: url("/assets/fonts/MyriadPro-Bold.otf");
+}
+
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url("/assets/fonts/OpenSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: OpenSans-ExtraBold;
+  src: url("/assets/fonts/OpenSans-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: OpenSans-ExtraBoldItalic;
+  src: url("/assets/fonts/OpenSans-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: OpenSans-SemiBoldItalic;
+  src: url("/assets/fonts/OpenSans-SemiBoldItalic.ttf");
 }
 /*# sourceMappingURL=main.css.map */

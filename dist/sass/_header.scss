@@ -19,5 +19,5 @@ header {
 
 .header_logo {
     margin: 30px;
-    text-transform: to-upper-case($string: "logo");
+    text-transform: uppercase;
 }

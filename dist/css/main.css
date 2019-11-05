@@ -4,4 +4,25 @@
   margin: 0;
   padding: 0;
 }
+
+header {
+  height: 90px;
+  background: #bb7676;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header nav {
+  margin: 30px auto;
+  height: 90px;
+}
+
+.header_nav a.nav__link {
+  text-decoration: none;
+  color: #252525;
+}
 /*# sourceMappingURL=main.css.map */

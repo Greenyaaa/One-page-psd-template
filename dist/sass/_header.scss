@@ -1,0 +1,15 @@
+header {
+    height: 90px;
+    background:rgb(187, 118, 118);
+    display: flex;
+    justify-content: center;
+    & nav {
+        margin: 30px auto;
+        height: 90px;
+    }
+}
+
+.header_nav a.nav__link {
+    text-decoration: none;
+    color: #252525;
+}

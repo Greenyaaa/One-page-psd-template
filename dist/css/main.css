@@ -24,5 +24,23 @@ header nav {
 .header_nav a.nav__link {
   text-decoration: none;
   color: #252525;
+  font-family: MyriadPro-Bold,AdobeInvisFont;
+  font-size: 16pt;
+  margin: 50px;
+}
+
+.header_logo {
+  margin: 30px;
+  text-transform: "LOGO";
+}
+
+@font-face {
+  font-family: MyriadPro-Regular;
+  src: url("/assets/fonts/MyriadPro-Regular.otf");
+}
+
+@font-face {
+  font-family: MyriadPro-Bold;
+  src: url("/assets/fonts/MyriadPro-Bold.otf");
 }
 /*# sourceMappingURL=main.css.map */

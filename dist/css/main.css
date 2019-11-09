@@ -7,7 +7,6 @@
 
 header {
   height: 90px;
-  background: #bb7676;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -73,6 +72,9 @@ main {
 
 main .main_info {
   text-align: center;
-  padding: auto 0;
+  padding: 15% 0;
+  font-family: MyriadPro-Bold, MyriadPro-Regular;
+  font-size: 2.5vw;
+  color: white;
 }
 /*# sourceMappingURL=main.css.map */

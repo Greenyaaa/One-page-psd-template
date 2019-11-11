@@ -84,7 +84,20 @@ main .main_info form input {
 }
 
 .about {
-  background: #0030ff;
   position: relative;
+  width: 70vw;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.about h2 {
+  font-family: MyriadPro-Bold, AdobeInvisFont, MyriadPro-Regular;
+  font-size: 4vh;
+  padding-top: 70px;
+}
+
+.about img {
+  width: 25vw;
+  float: left;
 }
 /*# sourceMappingURL=main.css.map */

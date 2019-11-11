@@ -77,4 +77,9 @@ main .main_info {
   font-size: 2.5vw;
   color: white;
 }
+
+main .main_info form input {
+  -webkit-box-shadow: 5px 5px #0030ff;
+          box-shadow: 5px 5px #0030ff;
+}
 /*# sourceMappingURL=main.css.map */

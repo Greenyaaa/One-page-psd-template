@@ -14,6 +14,9 @@ main {
         font-family: MyriadPro-Bold, MyriadPro-Regular;
         font-size: 2.5vw;
         color: rgba(255, 255, 255, 255);
+        form input {
+            box-shadow: 5px 5px #0030ff;
+        }
         
     }
 }

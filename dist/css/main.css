@@ -90,14 +90,28 @@ main .main_info form input {
   margin-top: 150px;
 }
 
+.about form input {
+  -webkit-box-shadow: 5px 5px #0030ff;
+          box-shadow: 5px 5px #0030ff;
+  margin-left: 2vw;
+}
+
 .about h2 {
   font-family: MyriadPro-Bold, AdobeInvisFont, MyriadPro-Regular;
   font-size: 4vh;
   padding-top: 70px;
+  margin-left: 27vw;
 }
 
 .about img {
   width: 25vw;
   float: left;
+  -webkit-box-shadow: 5px 5px #b3278d;
+          box-shadow: 5px 5px #b3278d;
+}
+
+.about p {
+  padding-left: 27vw;
+  font-size: 2vh;
 }
 /*# sourceMappingURL=main.css.map */

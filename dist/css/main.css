@@ -114,4 +114,16 @@ main .main_info form input {
   padding-left: 27vw;
   font-size: 2vh;
 }
+
+.portfolio {
+  position: relative;
+  width: 70vw;
+  margin: 0 auto;
+  margin-top: 20vh;
+}
+
+.portfolio h2, .portfolio p {
+  text-align: center;
+  padding: 5px;
+}
 /*# sourceMappingURL=main.css.map */

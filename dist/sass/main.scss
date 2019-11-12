@@ -22,7 +22,6 @@ main {
 }
 
 .about {
-    // background: #a7e262;
     position: relative;
     width: 70vw;
     margin:0 auto;
@@ -30,7 +29,6 @@ main {
         & form input {
             box-shadow: 5px 5px #0030ff;
             margin-left: 2vw;
-            // background-color: red;
         }
 
     & h2 {
@@ -48,5 +46,16 @@ main {
     & p {
         padding-left: 27vw;
         font-size: 2vh;
+    }
+}
+
+.portfolio {
+    position: relative;
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 20vh;
+    & h2,p {
+        text-align: center;
+        padding:5px;
     }
 }

@@ -117,6 +117,7 @@ main .main_info form input {
 
 .portfolio {
   position: relative;
+  height: 100%;
   width: 70vw;
   margin: 0 auto;
   margin-top: 20vh;
@@ -125,5 +126,9 @@ main .main_info form input {
 .portfolio h2, .portfolio p {
   text-align: center;
   padding: 5px;
+}
+
+.portfolio_container {
+  background-color: blue;
 }
 /*# sourceMappingURL=main.css.map */

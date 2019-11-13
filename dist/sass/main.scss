@@ -51,11 +51,19 @@ main {
 
 .portfolio {
     position: relative;
+    height: 100%;
     width: 70vw;
     margin: 0 auto;
     margin-top: 20vh;
     & h2,p {
         text-align: center;
         padding:5px;
+    }
+}
+
+.portfolio_container {
+    background-color: blue;
+    & .col-1 .keybord {
+        
     }
 }

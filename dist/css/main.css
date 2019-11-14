@@ -13,7 +13,7 @@ header {
 }
 
 header nav {
-  margin-left: 35%;
+  margin-left: 30%;
   margin-top: 30px;
   margin-bottom: auto;
 }
@@ -27,7 +27,9 @@ header nav {
 }
 
 .header_logo {
-  margin: 30px;
+  font-size: 30px;
+  margin: 15px;
+  margin-left: 20px;
   text-transform: uppercase;
   font-family: OpenSans-ExtraBold, AdobeInvisFont;
 }
@@ -128,7 +130,36 @@ main .main_info form input {
   padding: 5px;
 }
 
-.portfolio_container {
-  background-color: blue;
+.portfolio_container .keybord {
+  padding: 5px;
+}
+
+.portfolio_container .coffe {
+  padding: 5px;
+}
+
+.portfolio_container .handflower {
+  padding: 5px;
+}
+
+.portfolio_container .womanlips {
+  padding: 5px;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.column {
+  -webkit-box-flex: 50%;
+      -ms-flex: 50%;
+          flex: 50%;
+  padding: 10px;
+}
+
+img {
+  width: 30vw;
 }
 /*# sourceMappingURL=main.css.map */

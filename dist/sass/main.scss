@@ -62,8 +62,29 @@ main {
 }
 
 .portfolio_container {
-    background-color: blue;
-    & .col-1 .keybord {
-        
+    & .keybord {
+        padding: 5px;
     }
+    & .coffe {
+        padding: 5px;
+    }
+    & .handflower {
+        padding: 5px;
+    }
+    & .womanlips {
+        padding: 5px;
+    }
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 10px;
+}
+
+img {
+    width: 30vw;
 }

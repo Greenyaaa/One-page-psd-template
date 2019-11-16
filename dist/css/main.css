@@ -64,6 +64,22 @@ header nav {
   src: url("/assets/fonts/OpenSans-SemiBoldItalic.ttf");
 }
 
+footer {
+  background-color: #6767b6;
+}
+
+footer .right_foot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+footer .left_foot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 main {
   width: 100%;
 }

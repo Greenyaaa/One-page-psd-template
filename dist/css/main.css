@@ -125,6 +125,10 @@ main .main_info form input {
   margin-top: 20vh;
 }
 
+.portfolio p {
+  margin: 0 10vw;
+}
+
 .portfolio h2, .portfolio p {
   text-align: center;
   padding: 5px;

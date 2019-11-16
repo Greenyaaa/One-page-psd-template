@@ -55,6 +55,9 @@ main {
     width: 70vw;
     margin: 0 auto;
     margin-top: 20vh;
+    & p {
+        margin: 0 10vw;
+    }
     & h2,p {
         text-align: center;
         padding:5px;

@@ -1,0 +1,10 @@
+footer {
+    background-color: rgb(103, 103, 182);
+    & .right_foot {
+        display:flex;
+    }
+    & .left_foot {
+        display:flex;
+    }
+
+}

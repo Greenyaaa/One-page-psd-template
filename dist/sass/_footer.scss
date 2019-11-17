@@ -1,10 +1,26 @@
 footer {
-    background-color: rgb(103, 103, 182);
+    background-color: #000415;
     & .right_foot {
         display:flex;
     }
     & .left_foot {
         display:flex;
     }
+    margin: auto 0;
+    }
 
+.rot {
+    display:flex;
+    margin: 0px 25vw;
+    padding: 15px;
+}
+
+p.footer_p {
+    color: white;
+    padding: 5px;
+}
+
+.footer_img {
+    width: 1.6vw;
+    margin-right: 8px;
 }

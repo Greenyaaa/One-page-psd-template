@@ -65,7 +65,8 @@ header nav {
 }
 
 footer {
-  background-color: #6767b6;
+  background-color: #000415;
+  margin: auto 0;
 }
 
 footer .right_foot {
@@ -78,6 +79,24 @@ footer .left_foot {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+
+.rot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0px 25vw;
+  padding: 15px;
+}
+
+p.footer_p {
+  color: white;
+  padding: 5px;
+}
+
+.footer_img {
+  width: 1.6vw;
+  margin-right: 8px;
 }
 
 main {
@@ -178,7 +197,7 @@ main .main_info form input {
   padding: 10px;
 }
 
-img {
+img.main_image {
   width: 30vw;
 }
 /*# sourceMappingURL=main.css.map */

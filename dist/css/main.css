@@ -36,32 +36,32 @@ header nav {
 
 @font-face {
   font-family: MyriadPro-Regular;
-  src: url("/assets/fonts/MyriadPro-Regular.otf");
+  src: url("./assets/fonts/MyriadPro-Regular.otf");
 }
 
 @font-face {
   font-family: MyriadPro-Bold;
-  src: url("/assets/fonts/MyriadPro-Bold.otf");
+  src: url("./assets/fonts/MyriadPro-Bold.otf");
 }
 
 @font-face {
   font-family: OpenSans-Bold;
-  src: url("/assets/fonts/OpenSans-Bold.ttf");
+  src: url("./assets/fonts/OpenSans-Bold.ttf");
 }
 
 @font-face {
   font-family: OpenSans-ExtraBold;
-  src: url("/assets/fonts/OpenSans-ExtraBold.ttf");
+  src: url("./assets/fonts/OpenSans-ExtraBold.ttf");
 }
 
 @font-face {
   font-family: OpenSans-ExtraBoldItalic;
-  src: url("/assets/fonts/OpenSans-ExtraBoldItalic.ttf");
+  src: url("./assets/fonts/OpenSans-ExtraBoldItalic.ttf");
 }
 
 @font-face {
   font-family: OpenSans-SemiBoldItalic;
-  src: url("/assets/fonts/OpenSans-SemiBoldItalic.ttf");
+  src: url("./assets/fonts/OpenSans-SemiBoldItalic.ttf");
 }
 
 footer {
@@ -104,7 +104,7 @@ main {
 }
 
 main .main_info {
-  background-image: url(/assets/images/Rectangle1cope.JPG);
+  background-image: url(./assets/images/rectangle1cope.JPG);
   background-size: 100% auto;
   background-repeat: no-repeat;
   text-align: center;
